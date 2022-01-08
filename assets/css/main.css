@@ -1,0 +1,142 @@
+/*****variables barber****/
+@import 'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css';
+.m-0 {
+  margin: 0;
+}
+
+.texto {
+  text-align: left;
+  color: #6C6E70;
+}
+.texto__title {
+  font-family: "Playfair Display", serif;
+  font-size: 18px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+}
+.texto .texto__title-parrafo {
+  font-family: 400;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 3px;
+  line-height: 40px;
+}
+
+.share {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.share {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+header {
+  padding: 15px 70px;
+  background-color: #121619;
+}
+header .header__bg-dark {
+  background-color: #121619 !important;
+}
+
+.banner {
+  background-image: url("../img/post-image.jpg");
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.banner__title {
+  text-align: center;
+  padding-top: 200px;
+  font-size: 70px;
+  font-style: italic;
+  font-family: "Playfair Display", serif;
+  color: #FFF;
+}
+
+.autor__lineablanca {
+  padding-bottom: 50px;
+  padding-top: 100px;
+  border-color: #D1D1D1;
+  border-top: 1px;
+  width: 100%;
+}
+
+.autor {
+  padding-top: 30px;
+  text-align: left;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 30px;
+}
+
+.autor__text {
+  text-align: left;
+  color: #121619;
+  font-family: "Playfair Display", serif;
+  font-size: 16px;
+}
+.autor__text h2 {
+  font-style: italic;
+}
+
+.autor__text_pq {
+  font-family: "Roboto", sans-serif;
+  color: #D76C69;
+  font-style: 400;
+  text-align: left;
+  font-size: 16px;
+  line-height: 5px;
+}
+
+.paginacion {
+  background-color: #D1D1D1;
+  text-align: center;
+  color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.paginacion .bg-warning_paginaction {
+  background-color: #D1D1D1 !important;
+}
+.paginacion .paginacion__anterior {
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+.paginacion .paginacion__siguiente {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+.share {
+  padding-left: 100px;
+}
+
+.footer_logo {
+  background-color: #121619;
+  text-align: center;
+  color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.share {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/*# sourceMappingURL=main.css.map */
